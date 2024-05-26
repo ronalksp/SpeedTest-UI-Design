@@ -12,5 +12,5 @@ This UI has a simple logic to simulate a dynamic bar variant when pressing the "
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/ronalksp/SpeedTest-UI-Design/master/Screenshot_20240526_161418.png)
+![App Screenshot](https://raw.githubusercontent.com/ronalksp/SpeedTest-UI-Design/master/Screen_recording_20240526_161518.gif)
 
